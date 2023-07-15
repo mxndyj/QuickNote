@@ -21,9 +21,10 @@ h1 {
 input, textarea {
   caret-color: #6e6eb1;
 }
-input:focus {
-  background-color: #bfbfd7 !important;
-}
+  input:focus,
+  textarea:focus {
+    background-color: #bfbfd7 !important;
+  }
 
 /* Styles for screens smaller than 768px */
 @media (max-width: 767px) {
@@ -40,21 +41,3 @@ input:focus {
   /* CSS rules for large screens */
 }
 
-.mirror-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-@media (min-width: 768px) {
-  .mirror-container {
-    height: 100vh;
-  }
-
-  .col-md-6 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-}
