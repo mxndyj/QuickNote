@@ -21,4 +21,4 @@ Deleting quicknotes
 
 
 <h2><strong>Concept Video</strong></h2>
---->  https://img.youtube.com/vi/E16ggac-Kis/0.jpg)](https://youtu.be/E16ggac-Kis
+--->  https://youtu.be/E16ggac-Kis
