@@ -20,5 +20,5 @@ Saving quicknote to database
 Deleting quicknotes
 
 
-<h2><strong>Concept Video</h2>strong></h2>
-[![Personal Video](https://img.youtube.com/vi/E16ggac-Kis/0.jpg)](https://youtu.be/E16ggac-Kis)
+<h2><strong>Concept Video</strong>strong></h2>
+(https://img.youtube.com/vi/E16ggac-Kis/0.jpg)](https://youtu.be/E16ggac-Kis)
