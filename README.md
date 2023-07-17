@@ -1,7 +1,7 @@
 
 <h2><strong>Project Title</strong></h2>
 
-QuickNotes
+QuickNote
 
 <h2><strong>Description</strong></h2>
 A simple web app designed for users to make a "quicknote". 
